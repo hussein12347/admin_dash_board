@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "805177691565",
+    "project_id": "trend-perfume-push-notificatio",
+    "storage_bucket": "trend-perfume-push-notificatio.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805177691565:android:b074a547624f9692262524",
+        "android_client_info": {
+          "package_name": "com.example.admin_dash_board"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3FYR6M_RLFNwdhgbeZ_T8oRjXmGTQSMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805177691565:android:641f1a4174d0187d262524",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3FYR6M_RLFNwdhgbeZ_T8oRjXmGTQSMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
